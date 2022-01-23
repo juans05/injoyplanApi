@@ -1,0 +1,10 @@
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\bin\Release\netcoreapp3.1\API.Shared.deps.json
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\bin\Release\netcoreapp3.1\API.Shared.dll
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\bin\Release\netcoreapp3.1\API.Shared.pdb
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\obj\Release\netcoreapp3.1\API.Shared.csproj.AssemblyReference.cache
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\obj\Release\netcoreapp3.1\API.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\obj\Release\netcoreapp3.1\API.Shared.AssemblyInfoInputs.cache
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\obj\Release\netcoreapp3.1\API.Shared.AssemblyInfo.cs
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\obj\Release\netcoreapp3.1\API.Shared.csproj.CoreCompileInputs.cache
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\obj\Release\netcoreapp3.1\API.Shared.dll
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\obj\Release\netcoreapp3.1\API.Shared.pdb

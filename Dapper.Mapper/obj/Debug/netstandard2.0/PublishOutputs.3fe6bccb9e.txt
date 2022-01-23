@@ -1,0 +1,7 @@
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Debug\netstandard2.0\publish\Dapper.Mapper.dll
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Debug\netstandard2.0\publish\Dapper.Mapper.deps.json
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Debug\netstandard2.0\publish\Dapper.Mapper.pdb
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Debug\netstandard2.0\publish\Dapper.dll
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Debug\netstandard2.0\publish\Microsoft.CSharp.dll
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Debug\netstandard2.0\publish\System.Reflection.Emit.ILGeneration.dll
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Debug\netstandard2.0\publish\System.Reflection.Emit.Lightweight.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "akg2uNsUgX7vzutr2PPB7QdVXRQBceNgsXAYcRjzQblbduD1rs7PeVabXSrV0k/6PCIVz0viRCvPXmZqhiDGig==",
+  "success": true,
+  "projectFilePath": "D:\\injoyplan\\NuevaVerionApi\\API.Application\\API.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juan saavedra\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.13\\microsoft.aspnetcore.http.features.5.0.13.nupkg.sha512",
+    "C:\\Users\\juan saavedra\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\juan saavedra\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\juan saavedra\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\juan saavedra\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\juan saavedra\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\juan saavedra\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

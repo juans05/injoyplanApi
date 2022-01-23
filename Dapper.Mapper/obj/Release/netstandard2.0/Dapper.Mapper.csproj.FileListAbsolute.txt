@@ -1,0 +1,16 @@
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Release\netstandard2.0\Dapper.Mapper.deps.json
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Release\netstandard2.0\Dapper.Mapper.dll
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\bin\Release\netstandard2.0\Dapper.Mapper.pdb
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.csproj.AssemblyReference.cache
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.csproj.CoreCompileInputs.cache
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.dll
+D:\injoyplan\LayherSuite-Backend\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.pdb
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\bin\Release\netstandard2.0\Dapper.Mapper.deps.json
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\bin\Release\netstandard2.0\Dapper.Mapper.dll
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\bin\Release\netstandard2.0\Dapper.Mapper.pdb
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.csproj.AssemblyReference.cache
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.csproj.CoreCompileInputs.cache
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.dll
+D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\Dapper.Mapper\obj\Release\netstandard2.0\Dapper.Mapper.pdb
