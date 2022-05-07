@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dapper.Mapper\Dapper.Mapper.csproj" />
+    <ProjectReference Include="..\LAYHER.Backend.Application\LAYHER.Backend.Application.csproj" />
+    <ProjectReference Include="..\LAYHER.Backend.Domain\LAYHER.Backend.Domain.csproj" />
+    <ProjectReference Include="..\LAYHER.Backend.Shared\LAYHER.Backend.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebaseAdmin" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.27" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

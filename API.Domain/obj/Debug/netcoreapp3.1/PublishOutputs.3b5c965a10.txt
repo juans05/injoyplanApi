@@ -1,9 +1,0 @@
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\API.Domain.dll
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\API.Domain.deps.json
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\API.Domain.pdb
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.AspNetCore.Http.Features.dll
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\System.IO.Pipelines.dll
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\System.Runtime.CompilerServices.Unsafe.dll
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\API.Shared.dll
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Domain\bin\Debug\netcoreapp3.1\publish\API.Shared.pdb

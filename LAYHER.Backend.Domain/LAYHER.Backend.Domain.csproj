@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dapper.Mapper\Dapper.Mapper.csproj" />
+    <ProjectReference Include="..\LAYHER.Backend.Shared\LAYHER.Backend.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="FluentValidation" Version="10.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.5" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

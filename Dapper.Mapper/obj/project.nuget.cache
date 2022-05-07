@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ofOFpWHrSho3T0FflZdz8rMMoroFouRr6eUURUNi2NxJppjTY18VLyF9XKBiw1q2X2wJNTxSX7wnA3V9elts5g==",
+  "dgSpecHash": "NrDSqRR+kaXBKVUX0sA9/kuEurTj3o1K5I1T9KuitgrtW9WyH6SXtlOdRYqvNzus0d7BHnx95VLkvzNjPrCDbg==",
   "success": true,
-  "projectFilePath": "D:\\injoyplan\\NuevaVerionApi\\Dapper.Mapper\\Dapper.Mapper.csproj",
+  "projectFilePath": "D:\\injoyplan\\InyplanApi_Net_1\\Dapper.Mapper\\Dapper.Mapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juan saavedra\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\juan saavedra\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

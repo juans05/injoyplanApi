@@ -431,11 +431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\injoyplan\\NuevaVerionApi\\Dapper.Mapper\\Dapper.Mapper.csproj",
+      "projectUniqueName": "D:\\injoyplan\\InyplanApi_Net_1\\Dapper.Mapper\\Dapper.Mapper.csproj",
       "projectName": "Dapper.Mapper",
-      "projectPath": "D:\\injoyplan\\NuevaVerionApi\\Dapper.Mapper\\Dapper.Mapper.csproj",
+      "projectPath": "D:\\injoyplan\\InyplanApi_Net_1\\Dapper.Mapper\\Dapper.Mapper.csproj",
       "packagesPath": "C:\\Users\\juan saavedra\\.nuget\\packages\\",
-      "outputPath": "D:\\injoyplan\\NuevaVerionApi\\Dapper.Mapper\\obj\\",
+      "outputPath": "D:\\injoyplan\\InyplanApi_Net_1\\Dapper.Mapper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",

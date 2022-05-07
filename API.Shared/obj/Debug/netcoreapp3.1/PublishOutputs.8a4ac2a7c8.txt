@@ -1,3 +1,0 @@
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\bin\Debug\netcoreapp3.1\publish\API.Shared.dll
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\bin\Debug\netcoreapp3.1\publish\API.Shared.deps.json
-D:\injoyplan\APIINJOYPLAN\InjoyplanAPI\API.Shared\bin\Debug\netcoreapp3.1\publish\API.Shared.pdb

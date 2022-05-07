@@ -1,0 +1,7 @@
+ALTER TABLE PU.Formulario
+ALTER COLUMN NombreTransportista VARCHAR(50);
+GO
+
+ALTER TABLE PU.Formulario
+ALTER COLUMN NombreEncargado VARCHAR(50);
+GO
